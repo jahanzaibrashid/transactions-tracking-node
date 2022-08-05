@@ -1,0 +1,16 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "Propine coding challange",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jahanzaib Rashid",
+  "license": "ISC",
+  "dependencies": {
+    "promise": "^8.1.0",
+    "request": "^2.88.2",
+    "yargs": "^17.5.1"
+  }
+}
